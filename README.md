@@ -2,7 +2,9 @@
 
 ## Running instructions
 `mix compile`
+
 `iex -S mix` to enter interactive mode
+
 `River.main("_some input string_")` ex: River.main("0 OP_IF 3 OP_ELSE 5 6 OP_ENDIF 4 5 6")
 
 ## Improvements
