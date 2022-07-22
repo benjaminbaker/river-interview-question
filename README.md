@@ -1,6 +1,8 @@
 # River Interview Question
 
 ## Running instructions
+`mix deps.get`
+
 `mix compile`
 
 `iex -S mix` to enter interactive mode
